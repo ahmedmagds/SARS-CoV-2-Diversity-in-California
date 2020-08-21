@@ -1,0 +1,5 @@
+California_end_jan.txtCalifornia_Feb.txtCalifornia_mid_Mar.txt
+California_end_Mar.txt
+California_mid_Apr.txtCalifornia_end_Apr.txtCalifornia_mid_May.txt
+California_end_May_mid_June.txt
+California_end_June.txt

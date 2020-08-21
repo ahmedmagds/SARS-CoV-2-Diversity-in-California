@@ -1,0 +1,10 @@
+Time	Circulating STs/Genomes	Novel STs/Circulating STs	Introduced STs/Novel STs	Introduced USA/Introduced
+end_jan	0.83	1	0	0
+Feb	0.89	1	0.375	0
+mid-mar	0.81	0.98	0.07	0.25
+end-mar	0.64	0.93	0.07	0.58
+mid_Apr	0.67	0.84	0.035	0.8
+end-Apr	0.72	0.86	0.011	1
+mid_May	0.71	0.81	0.019	1
+end_May_mid_Jun	1	0.83	0	0
+end_June	0.85	0.98	0	0

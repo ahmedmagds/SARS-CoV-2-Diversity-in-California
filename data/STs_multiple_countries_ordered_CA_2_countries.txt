@@ -1,0 +1,37 @@
+ST	CC	Period	Number of countries	Number of isolates	Number of isolates CA	First_seen	CA_date	Origin	days	Countries
+4	4	Feb	17	184	15	2019-12-30	2020-02-29	other	61	China	Thailand	Japan	Taiwan	South Korea	USA	Malaysia	Canada	Ireland	South Africa	Sweden	Singapore	United Kingdom	Iceland	India	Bangladesh	Israel
+6	750	Feb	2	3	1	2019-12-30	2020-02-10	other	42	China	USA
+75	NA	Feb	5	10	1	2020-01-25	2020-02-06	other	12	China	Australia	Singapore	USA	Mali
+338	338	Feb	13	109	7	2020-02-29	2020-02-29	CA	0	USA	Canada	Greece	Japan	Brazil	Portugal	Taiwan	Australia	Saudi Arabia	Lebanon	Colombia	Israel	Peru
+256	256	mid_Mar	3	350	21	2020-02-20	2020-03-25	other	34	USA	Canada	Australia
+258	258	mid_Mar	36	1061	43	2020-02-21	2020-03-13	other	21	France	Iceland	USA	Canada	Denmark	Finland	Norway	Austria	United Arab Emirates	Australia	Brazil	Germany	Luxembourg	Sweden	United Kingdom	Spain	Russia	Greece	Singapore	Taiwan	Netherlands	Chile	Thailand	Israel	Belgium	China	Colombia	Portugal	Nigeria	Morocco	Croatia	Japan	Costa Rica	Czech Republic	Latvia	Senegal
+908	258	mid_Mar	3	24	1	2020-03-11	2020-03-13	other	2	USA	Singapore	Canada
+1427	291	mid_Mar	4	4	1	2020-03-16	2020-03-13	CA	-3	Canada	Australia	Greece	USA
+927	1179	mid_Mar	10	36	2	2020-03-11	2020-03-15	other	4	Australia	Canada	USA	Singapore	Gambia	Guam	India	Taiwan	Oman	Senegal
+300	300	mid_Mar	49	629	8	2020-02-27	2020-03-24	other	26	Mexico	Italy	Switzerland	Belgium	New Zealand	United Kingdom	Netherlands	Denmark	Sweden	Vietnam	Argentina	Portugal	Greece	Canada	Ireland	Sri Lanka	Germany	USA	Japan	Australia	Austria	Russia	Taiwan	Kuwait	Spain	United Arab Emirates	Iceland	Jordan	France	Czech Republic	Chile	Singapore	India	Hungary	Latvia	Turkey	Saudi Arabia	Georgia	Morocco	Lebanon	Cyprus	Oman	Poland	Lithuania	Estonia	Colombia	Israel	Finland	Ecuador
+1088	258	mid_Mar	4	10	5	2020-03-13	2020-03-22	other	9	USA	Singapore	New Zealand	Colombia
+1123	258	mid_Mar	2	20	12	2020-03-13	2020-03-22	other	9	USA	Australia
+867	1179	mid_Mar	3	3	1	2020-03-10	2020-03-15	other	5	Canada	USA	Singapore
+623	623	mid_Mar	4	39	5	2020-03-07	2020-03-11	other	4	Australia	USA	Canada	Iceland
+255	255	mid_Mar	37	277	4	2020-02-20	2020-03-28	other	37	Italy	Switzerland	Brazil	United Kingdom	Greece	Czech Republic	Belgium	Netherlands	Denmark	France	Chile	Iceland	USA	Singapore	Canada	Georgia	India	Australia	Japan	Sweden	Luxembourg	Russia	Germany	Saudi Arabia	Bangladesh	Spain	Poland	Portugal	Bosnia and Herzegovina	South Africa	Estonia	Serbia	Uganda	Kenya	Morocco	Austria	Finland
+1040	258	end_Mar	2	26	3	2020-03-12	2020-03-28	other	16	USA	United Kingdom
+1043	768	end_Mar	3	50	7	2020-03-12	2020-03-18	other	6	USA	Australia	New Zealand
+1531	258	end_Mar	2	36	1	2020-03-17	2020-03-25	other	8	USA	Denmark
+2633	317	end_Mar	2	2	1	2020-03-23	2020-03-23	CA	0	USA	United Kingdom
+645	645	end_Mar	3	21	1	2020-03-07	2020-03-25	other	18	Australia	New Zealand	USA
+1200	258	end_Mar	5	19	1	2020-03-14	2020-03-30	other	16	Belgium	Netherlands	Latvia	USA	Turkey
+1218	258	end_Mar	2	5	1	2020-03-14	2020-03-19	other	5	Canada	USA
+3297	258	end_Mar	2	8	1	2020-03-28	2020-03-28	CA	0	USA	Canada
+768	768	end_Mar	3	86	1	2020-03-09	2020-03-29	other	20	USA	Canada	United Kingdom
+10025	255	end_Mar	3	3	1	2020-03-21	2020-03-28	other	7	Costa Rica	USA	Canada
+301	301	end_Mar	30	176	2	2020-02-27	2020-03-28	other	30	Switzerland	Spain	Italy	USA	Chile	Denmark	Austria	Georgia	Luxembourg	Australia	Greece	United Kingdom	Iceland	Hungary	Portugal	Turkey	Netherlands	Russia	Belgium	Argentina	Canada	Oman	New Zealand	Colombia	Israel	Peru	Japan	Sweden	Romania	Singapore
+317	317	end_Mar	15	129	1	2020-02-28	2020-03-25	other	26	USA	Switzerland	Israel	India	Brazil	Australia	United Arab Emirates	Russia	United Kingdom	Hungary	Japan	Belgium	Denmark	Norway	Spain
+844	844	end_Mar	5	69	3	2020-03-10	2020-03-25	other	15	USA	Australia	Argentina	Canada	Israel
+854	67	end_Mar	2	6	2	2020-03-10	2020-03-27	other	17	Australia	USA
+380	258	end_Mar	2	7	1	2020-03-02	2020-03-19	other	17	USA	Chile
+2941	258	end_Mar	2	6	1	2020-03-25	2020-03-25	CA	0	USA	Canada
+3481	623	end_Mar	2	8	1	2020-03-29	2020-03-25	CA	-4	USA	New Zealand
+475	266	end_Mar	4	8	1	2020-03-04	2020-03-26	other	22	Mexico	Uruguay	United Kingdom	USA
+3525	258	mid_Apr	2	3	2	2020-03-30	2020-04-15	other	16	Belgium	USA
+498	498	mid_Apr	13	99	8	2020-03-05	2020-04-29	other	55	USA	Iceland	United Kingdom	Finland	Switzerland	Norway	Netherlands	Denmark	Spain	Australia	South Africa	Sweden	Latvia
+1841	3530	end_Apr	2	38	1	2020-03-18	2020-04-19	other	32	USA	New Zealand
