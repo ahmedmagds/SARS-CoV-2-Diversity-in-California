@@ -2,6 +2,8 @@
 
 **Ahmed M. Moustafa** and **Paul J. Planet**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3993837.svg)](https://doi.org/10.5281/zenodo.3993837)
+
 ---
 
 This repository contains the data files, scripts and workflows necessary to reproduce the analyses and figures presented in Moustafa AM and Planet PJ (TBD). Some of the scripts may need some adjustment depending on the local setup. The analysis is based on using the 940 Californian high coverage genomes included in the recent database release (07/17/2020)  from the [GNUVID v1.3](https://github.com/ahmedmagds/GNUVID) tool.
